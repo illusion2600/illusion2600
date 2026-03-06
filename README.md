@@ -87,13 +87,6 @@ Deep learning model for recognizing facial emotions in real-time.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=illusion2600&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illusion2600&layout=compact&theme=radical&langs_count=8)
-
----
 
 ## 🎨 Beyond Code
 
