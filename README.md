@@ -1,165 +1,161 @@
-# 👋 Hey, I'm Nikhil Khatri!
+# Nikhil Khatri
 
-**Data Science & AI Engineering Enthusiast | ML Engineer in the Making**  
-📍 Bangalore, India | 🎓 Student | 🚀 Building AI Solutions
+**MSc Computer Science @ University of Sydney | Data Science | AI/ML**
 
-> *"When I'm not coding, I'm either in deep conversations about fascinating topics or exploring new media concepts through photography, storytelling, anime, and manga."*
+I'm a Computer Science student with a background in Data Science, interested in building and understanding practical AI and software systems.
 
----
+Most of my work so far has been around machine learning, computer vision, recommendation systems, data analysis, and AI-driven applications. More recently, I've also been exploring physical computing and robotics through Arduino-based projects.
 
-## 🎯 About Me
+I enjoy working on problems where I have to understand the underlying system rather than just use an existing tool or library.
 
-I'm a passionate student transitioning into **Data Science and AI Engineering**, with a strong focus on building practical, deployable machine learning solutions. I love working with complex datasets—whether it's time series data, social networks, or recommendation systems—and turning them into actionable insights.
+## About
 
-My philosophy: **Learn deeply, code cleanly, and deploy responsibly.**
+- MSc Computer Science student at the University of Sydney
+- BSc Data Science graduate from Alliance University
+- Interested in machine learning, computer vision, computational systems, and applied AI
+- Currently exploring physical computing, robotics, 3D printing, and computational design
+- Comfortable working with Python, SQL, machine learning frameworks, and data-processing tools
+- Interested in research and projects that combine software with real-world systems
 
-- 🤖 Specializing in **MLOps**, **Computer Vision**, **Recommendation Engines**, and **NLP/LLM**
-- 🔍 Currently diving into **OCR**, **NLP**, and **LLM applications**
-- 🌐 Passionate about **AI in daily life and real-world implementation**
-- 🤝 Open to **open-source contributions** and collaborations
-- 📚 Continuous learner with focus on ML/DL fundamentals
+## Technical Skills
 
----
+### Programming
+- Python
+- SQL
 
-## 🛠️ Tech Stack
+### Machine Learning & AI
+- TensorFlow / Keras
+- PyTorch
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Recommendation Systems
+- LLM applications
 
-### 🐍 Languages & Frameworks
-- **Python** (Primary)
-- **SQL** (Data querying & analysis)
-- **FastAPI** (API development & deployment)
+### Data & Retrieval
+- Pandas
+- NumPy
+- FAISS
+- Data Analysis
+- Feature Engineering
+- Exploratory Data Analysis
 
-### 🤖 ML/AI & Data Science
-- **TensorFlow** | **Keras** (Deep Learning)
-- **Pandas** | **NumPy** | **Scikit-learn** (Data processing & ML)
-- **FAISS** (Similarity search & clustering)
-- **OpenCV** (Computer Vision)
-- **Tesseract** (OCR)
+### Physical Computing
+- Arduino
+- Sensors
+- Motors and Servos
+- Analogue / Digital I/O
+- Ultrasonic Sensors
+- Serial Communication
+- Bluetooth
 
-### 🚀 Tools & DevOps
-- **Git & GitHub** (Version control)
-- **Docker** (Containerization)
-- **VS Code** (Development environment)
+### Tools
+- Git / GitHub
+- Docker
+- Jupyter
+- OpenCV
+- MySQL
+- PostgreSQL
 
----
+## Selected Projects
 
-## 📊 Current Focus Areas
+### Clothing Recommendation System
 
-### 🔬 What I'm Working On
-- **Time Series Analysis** - Forecasting and pattern recognition
-- **Social Network Data** - Analysis across multiple industries
-- **Movie Recommendation Engine** - Fully deployable end-to-end system
-- **OCR & Text Recognition** - Document processing at scale
-- **NLP & LLM Applications** - Natural language understanding and generation
+A recommendation system combining visual and textual information to retrieve similar clothing products.
 
-### 📖 Currently Learning
-- ML/DL fundamentals (rigorous revision)
-- Advanced OCR techniques
-- NLP & Large Language Models
-- Open-source contribution best practices
+**Technologies:** Python, CNNs, ResNet50, TF-IDF, FAISS, PostgreSQL
 
----
+- Extracted visual features from product images using a CNN-based model.
+- Processed product descriptions using TF-IDF.
+- Combined visual and textual information for similarity-based recommendations.
+- Built a FAISS-based retrieval pipeline for efficient similarity search.
+- Worked with structured product data stored in PostgreSQL.
 
-## 🚀 Featured Projects
-
-Check out my latest work on [my GitHub](https://github.com/illusion2600):
-
-### 🎬 Movie Recommendation Engine
-A fully deployable recommendation system combining collaborative filtering and content-based approaches.
-- **Tech**: Python, FastAPI, Machine Learning, Docker
-- **Highlights**: Production-ready, scalable architecture
-- 🔗 [Repository](https://github.com/illusion2600/Recommendation-Engine)
-
-### 😊 Facial Emotion Recognition (FER) CNN Model
-Deep learning model for recognizing facial emotions in real-time.
-- **Tech**: TensorFlow, Keras, OpenCV, CNN
-- **Status**: Published research backup
-- 🔗 [FER-CNN-model](https://github.com/illusion2600/FER-CNN-model)
-
-
-## 💡 Areas of Interest & Expertise
-
-- 🤖 **Machine Learning Operations** - Model deployment, monitoring, versioning
-- 👁️ **Computer Vision** - Image recognition, object detection, facial analysis
-- 📄 **OCR & Document Processing** - Text extraction and understanding
-- 🎯 **Recommendation Systems** - Personalization at scale
-- 🗣️ **NLP & LLMs** - Language understanding and generation
-- 🌍 **AI in Real Life** - Practical implementations that matter
+[View Repository](https://github.com/illusion2600)
 
 ---
 
+### Facial Emotion Recognition
 
-## 🎨 Beyond Code
+A CNN-based facial emotion recognition model trained using the FER-2013 dataset.
 
-When I'm not immersed in data and algorithms, you'll find me:
+**Technologies:** Python, TensorFlow, Keras, OpenCV, CNN
 
-📸 **Photography** - Capturing moments and perspectives  
-📖 **Storytelling** - Crafting narratives that resonate  
-🎌 **Anime & Manga** - Exploring Japanese storytelling  
-🎬 **Media Concepts** - Understanding how stories are told  
-💬 **Deep Conversations** - Exploring fascinating ideas and philosophies
+- Worked with approximately 30,000 facial images from the FER-2013 dataset.
+- Performed image preprocessing and model training.
+- Achieved approximately 78% validation accuracy.
+- Experimented with CNN architecture and training parameters.
 
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in:
-- **Collaborations** on ML/AI projects
-- **Discussions** about data science trends and best practices
-- **Open-source contributions** and community involvement
-- **Learning opportunities** - teaching and being taught
-
-### 📬 Get In Touch
-
-- 💼 **LinkedIn**: [Nikhil Khatri](https://www.linkedin.com/in/nikhilkhatri2600/)
-- 📧 **Email**: khatrinikhil303@gmail.com
-- 💻 **GitHub**: [illusion2600](https://github.com/illusion2600)
+[View Repository](https://github.com/illusion2600/FER-CNN-model)
 
 ---
 
-## 🎓 Learning Journey
+### Movie Recommendation Engine
 
-Currently navigating the journey from solid fundamentals to real-world AI solutions. Every project is a stepping stone toward mastery.
+A recommendation system exploring content-based and collaborative filtering approaches.
 
----
+**Technologies:** Python, Machine Learning, FastAPI, Docker
 
-## ⚡ Quick Facts
+- Built recommendation workflows for movie data.
+- Experimented with different recommendation approaches.
+- Developed an API layer for accessing recommendation functionality.
 
-- 🎯 **Goal**: Become a skilled Data Scientist/AI Engineer
-- 🏆 **Passion**: Building deployable ML systems that solve real problems
-- 🧠 **Mindset**: Always learning, always shipping
-- ☕ **Fuel**: Coffee, curiosity, and challenging problems
-- 🌱 **Growth**: Contributing to open-source and the AI community
+[View Repository](https://github.com/illusion2600/Recommendation-Engine)
 
 ---
 
-## 📌 Recent Highlights
+### Arduino RC Car
 
-- 🎬 Built a fully deployable Movie Recommendation Engine
-- 😊 Developed Facial Emotion Recognition CNN model
-- 📊 Analyzing time series and social network data across industries
-- 🔍 Deep diving into OCR and NLP applications
-- 🚀 Contributing to open-source projects and best practices
+A hands-on physical computing project completed as part of an Arduino robotics workshop.
 
----
+**Technologies:** Arduino, Sensors, Motors, Servos, Ultrasonic Sensor, Bluetooth
 
-## 💼 What I'm Looking For
+- Worked with Arduino-based digital and analogue inputs and outputs.
+- Used sensors, motors and servos to control physical components.
+- Worked with ultrasonic sensing, serial communication and Bluetooth.
+- Integrated the components into a functioning RC car.
+- Adapted the wiring and implementation when the original setup presented practical constraints.
 
-- 🤖 **Internships/Opportunities** in ML/AI, Data Science
-- 🤝 **Collaborations** on interesting projects
-- 📚 **Mentorship** in advanced AI/ML topics
-- 🌟 **Open-source** projects to contribute to
+This was one of my first hands-on experiences combining software with physical hardware, and it is something I would like to explore further through robotics, fabrication and computational design.
 
----
+## What I'm Exploring Now
 
-## 🎯 My Development Philosophy
+My current interests are gradually moving beyond purely software-based machine learning.
 
-1. **Learn Deeply** - Understand fundamentals, not just frameworks
-2. **Code Cleanly** - Write maintainable, well-documented code
-3. **Deploy Responsibly** - Consider ethics, scalability, and real-world impact
-4. **Share Knowledge** - Contribute back to the community
-5. **Iterate Continuously** - Feedback loops drive improvement
+I'm particularly interested in:
 
----
+- Physical computing and robotics
+- Computational design
+- 3D printing and digital fabrication
+- Computer vision
+- Machine learning systems
+- AI applied to real-world problems
 
-*Last Updated: 2026-03-06*  
-*Actively learning and growing every single day 🚀*
+I haven't worked extensively with CAD or 3D printing yet, so these are areas I'm actively looking to learn through practical projects and research.
+
+## Research Interests
+
+I'm interested in research at the intersection of:
+
+- Machine Learning
+- Computer Vision
+- Computational Design
+- Robotics
+- Human-Computer Interaction
+- Digital Fabrication
+- AI and physical systems
+
+I'm particularly interested in projects where computational methods can be used to design, analyse, or control physical systems.
+
+## Beyond Technical Work
+
+Outside of coursework and projects, I have a background in Media Studies and enjoy photography, filmmaking, storytelling, and exploring different forms of visual media.
+
+This has also made me interested in the relationship between technology, people, and how systems are experienced in the real world.
+
+## Contact
+
+- LinkedIn: [Nikhil Khatri](https://www.linkedin.com/in/nikhilkhatri2600/)
+- Email: [khatrinikhil303@gmail.com](mailto:khatrinikhil303@gmail.com)
+- GitHub: [illusion2600](https://github.com/illusion2600)
